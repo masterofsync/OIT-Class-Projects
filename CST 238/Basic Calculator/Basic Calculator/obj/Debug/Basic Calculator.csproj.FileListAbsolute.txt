@@ -1,0 +1,9 @@
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojResolveAssemblyReference.cache
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.Cache
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb

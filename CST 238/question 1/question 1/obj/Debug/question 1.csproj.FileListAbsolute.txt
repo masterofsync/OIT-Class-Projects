@@ -1,0 +1,9 @@
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\bin\Debug\question 1.exe.config
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\bin\Debug\question 1.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\bin\Debug\question 1.pdb
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\obj\Debug\question_1.Properties.Resources.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\obj\Debug\question 1.csproj.GenerateResource.Cache
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\obj\Debug\question 1.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\obj\Debug\question 1.pdb
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\obj\Debug\question_1.child.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\question 1\question 1\obj\Debug\question_1.Form2.resources

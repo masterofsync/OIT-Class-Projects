@@ -1,0 +1,9 @@
+c:\users\bikesh\documents\visual studio 2012\Projects\FlagGuessing\FlagGuessing\bin\Debug\FlagGuessing.exe.config
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\bin\Debug\FlagGuessing.exe
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\bin\Debug\FlagGuessing.pdb
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\obj\Debug\FlagGuessing.Form1.resources
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\obj\Debug\FlagGuessing.Properties.Resources.resources
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\obj\Debug\FlagGuessing.csproj.GenerateResource.Cache
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\obj\Debug\FlagGuessing.exe
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\obj\Debug\FlagGuessing.pdb
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\FlagGuessing\FlagGuessing\obj\Debug\FlagGuessing.csprojResolveAssemblyReference.cache

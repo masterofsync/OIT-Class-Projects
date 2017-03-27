@@ -1,0 +1,9 @@
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\bin\Debug\pictureviewer2.exe.config
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\bin\Debug\pictureviewer2.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\bin\Debug\pictureviewer2.pdb
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\obj\Debug\pictureviewer2.csprojResolveAssemblyReference.cache
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\obj\Debug\pictureviewer2.Form1.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\obj\Debug\pictureviewer2.Properties.Resources.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\obj\Debug\pictureviewer2.csproj.GenerateResource.Cache
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\obj\Debug\pictureviewer2.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\pictureviewer2\pictureviewer2\obj\Debug\pictureviewer2.pdb

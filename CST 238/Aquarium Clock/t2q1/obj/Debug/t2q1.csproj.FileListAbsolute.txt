@@ -1,0 +1,9 @@
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\bin\Debug\t2q1.exe.config
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\obj\Debug\t2q1.csprojResolveAssemblyReference.cache
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\obj\Debug\t2q1.Form1.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\obj\Debug\t2q1.Properties.Resources.resources
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\obj\Debug\t2q1.csproj.GenerateResource.Cache
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\bin\Debug\t2q1.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\bin\Debug\t2q1.pdb
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\obj\Debug\t2q1.exe
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q1\t2q1\obj\Debug\t2q1.pdb

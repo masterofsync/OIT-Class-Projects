@@ -1,0 +1,10 @@
+c:\users\bikesh\documents\visual studio 2012\Projects\t2q2\t2q2\bin\Debug\t2q2.exe.config
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\bin\Debug\t2q2.exe
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\bin\Debug\t2q2.pdb
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\obj\Debug\t2q2.Form1.resources
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\obj\Debug\t2q2.Properties.Resources.resources
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\obj\Debug\t2q2.csproj.GenerateResource.Cache
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\obj\Debug\t2q2.exe
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\obj\Debug\t2q2.pdb
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\obj\Debug\t2q2.csprojResolveAssemblyReference.cache
+C:\Users\Bikesh\Documents\Visual Studio 2012\Projects\t2q2\t2q2\obj\Debug\t2q2.Form2.resources
