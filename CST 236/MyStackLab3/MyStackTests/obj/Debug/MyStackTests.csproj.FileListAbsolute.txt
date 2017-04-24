@@ -1,0 +1,9 @@
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\bin\Debug\TestData.xlsx
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\bin\Debug\MyStackTests.dll
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\bin\Debug\MyStackTests.pdb
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\bin\Debug\MyStack.dll
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\bin\Debug\MyStack.pdb
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\obj\Debug\MyStackTests.csprojResolveAssemblyReference.cache
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\obj\Debug\MyStackTests.dll
+C:\Users\Bikesh\Desktop\CST 236\TFS\Stack\MyStack\MyStackTests\obj\Debug\MyStackTests.pdb
