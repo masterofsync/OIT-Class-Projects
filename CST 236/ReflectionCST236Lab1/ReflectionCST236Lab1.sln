@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionCST236Lab1", "ReflectionCST236Lab1\ReflectionCST236Lab1.csproj", "{08288807-3ECD-4249-906B-AE726C69424D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClassLibrary", "TestClassLibrary\TestClassLibrary.csproj", "{1C18723F-3E4E-45EB-B30A-BBF03AF4746F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08288807-3ECD-4249-906B-AE726C69424D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08288807-3ECD-4249-906B-AE726C69424D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08288807-3ECD-4249-906B-AE726C69424D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08288807-3ECD-4249-906B-AE726C69424D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C18723F-3E4E-45EB-B30A-BBF03AF4746F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C18723F-3E4E-45EB-B30A-BBF03AF4746F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C18723F-3E4E-45EB-B30A-BBF03AF4746F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C18723F-3E4E-45EB-B30A-BBF03AF4746F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
