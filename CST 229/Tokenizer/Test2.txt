@@ -1,0 +1,15 @@
+void printevenNumbersBetween(int high )
+{
+	int low2=22;
+	if(low2>0 && high>0)
+	{
+		while(low2<high)
+		{
+			low2++;
+			if((low2%2)==0)
+			{
+				cout<<a;
+			}
+		}
+	}
+}
