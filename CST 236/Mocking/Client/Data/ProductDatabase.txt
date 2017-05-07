@@ -1,0 +1,5 @@
+﻿1;The C# Player's Guide;The C# Player's Guide (3rd Edition) is the ultimate guide for people starting out with C# whether you are new to programming or an experienced vet.;26.96
+2;Learn C# in one Day and Learn it Well;Just as the title states this book can help you learn C# in one day.;10.50
+3;C# 6.0 in a Nutshell;When you have questions about C# 6.0 or the .NET CLR and its core Framework assemblies, this bestselling guide has the answers you need. C# has become a language of unusual flexibility and breadth since its premiere in 2000, but this continual growth means there’s still much more to learn.;39.99
+4;Microsoft Visual C# Step by Step (8th Edition);Expand your expertise--and teach yourself the fundamentals of programming with the latest version of Visual C# with Visual Studio 2015.;22.07
+5;C# in Depth;C# in Depth, Third Edition updates the best-selling second edition to cover the new features of C# 5, including the challenges of writing maintainable asynchronous code. It preserves the uniquely insightful look into the tricky areas and dusty corners of C# that only expert Jon Skeet can provide.;27.24
